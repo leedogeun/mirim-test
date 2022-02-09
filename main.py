@@ -4,3 +4,4 @@ import bye
 if __name__ == '__main__':
     hello.hello("killdong")
     bye.bye("killdong")
+    bye.byebye("Killthe-en")
